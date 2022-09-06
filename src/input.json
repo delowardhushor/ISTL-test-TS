@@ -1,0 +1,20 @@
+[
+    {"date": "2022-07-04", "user_id": 1, "user_type": "regular", "type": "cash_in",
+   "operation": {"amount": 200.00, "currency": "BDT"}},
+    {"date": "2022-07-05", "user_id": 2, "user_type": "govt", "type": "cash_out",
+   "operation": {"amount": 300.00, "currency": "BDT"}},
+    {"date": "2022-07-05", "user_id": 1, "user_type": "regular", "type": "cash_out",
+   "operation": {"amount": 30000, "currency": "BDT"}},
+    {"date": "2022-07-06", "user_id": 1, "user_type": "regular", "type": "cash_out",
+   "operation": {"amount": 1000.00, "currency": "BDT"}},
+    {"date": "2022-07-06", "user_id": 1, "user_type": "regular", "type": "cash_out",
+   "operation": {"amount": 100.00, "currency": "BDT"}},
+    {"date": "2022-07-09", "user_id": 1, "user_type": "regular", "type": "cash_out",
+   "operation": {"amount": 100.00, "currency": "BDT"}},
+    {"date": "2022-07-09", "user_id": 2, "user_type": "govt", "type": "cash_in",
+   "operation": {"amount": 1000000.00, "currency": "BDT"}},
+    {"date": "2022-07-09", "user_id": 3, "user_type": "regular", "type": "cash_out",
+   "operation": {"amount": 1000.00, "currency": "BDT"}},
+    {"date": "2022-08-01", "user_id": 1, "user_type": "regular", "type": "cash_out",
+   "operation": {"amount": 300.00, "currency": "BDT"}}
+]
